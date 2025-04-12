@@ -35,7 +35,12 @@ Grammar-Quality-Scoring/
 git clone https://github.com/your-username/grammar-quality-scoring.git
 cd grammar-quality-scoring
 ```
-2. Install dependencies:
+2. Create and activate a virtual environment (recommended):
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
