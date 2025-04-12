@@ -3,7 +3,7 @@ The Grammar Quality Scoring System is a machine learning application that analyz
 
 ## Table of Content
 - [Project Structure](#Project_Structure)
-- [Prerequisites & Installation](#Prerequisites&Installation)
+- [Prerequisites & Installation](#Prerequisites_and_Installation)
 - [Usage](#Usage)
 - [Technical Details](#Technical_Details)
 - [Result](#Results)
@@ -24,7 +24,7 @@ Grammar-Quality-Scoring/
 └── requirements.txt          # Python dependencies
 ```
 
-## Prerequisites&Installation
+## Prerequisites_and_Installation
 ### Prerequisites
 - Python 3.7 or higher
 - pip package manager
