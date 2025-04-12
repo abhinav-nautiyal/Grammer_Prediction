@@ -2,13 +2,13 @@
 The Grammar Quality Scoring System is a machine learning application that analyzes spoken audio content and predicts grammar quality on a scale from 1 to 5. This project combines audio processing, feature extraction, and machine learning to automatically assess the grammatical accuracy of spoken language.
 
 ## Table of Content
-- [Project Structure](#ProjectStructure)
-- [Prerequisites&Installation](#Prerequisites&Installation)
+- [Project Structure](#Project_Structure)
+- [Prerequisites & Installation](#Prerequisites&Installation)
 - [Usage](#Usage)
-- [Technical Details](#TechnicalDetails)
+- [Technical Details](#Technical_Details)
 - [Result](#Results)
 
-## Project Structure
+## Project_Structure
 ```Bash
 Grammar-Quality-Scoring/
 ├── dataset/
@@ -24,7 +24,7 @@ Grammar-Quality-Scoring/
 └── requirements.txt          # Python dependencies
 ```
 
-## Prerequisites & Installation
+## Prerequisites&Installation
 ### Prerequisites
 - Python 3.7 or higher
 - pip package manager
@@ -60,7 +60,7 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
-## Technical Details
+## Technical_Details
 ### Feature Extraction
 The system extracts the following audio features using Librosa:
 - MFCCs (Mel-frequency cepstral coefficients)
