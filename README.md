@@ -2,8 +2,8 @@
 The Grammar Quality Scoring System is a machine learning application that analyzes spoken audio content and predicts grammar quality on a scale from 1 to 5. This project combines audio processing, feature extraction, and machine learning to automatically assess the grammatical accuracy of spoken language.
 
 ## Table of Content
-- [Installation](#Installation)
 - [Project Structure](#ProjectStructure)
+- [Installation](#Installation)
 - [Prerequisites & Installation](#Prerequisites&Installation)
 - [Usage](#Usage)
 - [Technical Details](#TechnicalDetails)
