@@ -3,10 +3,10 @@ The Grammar Quality Scoring System is a machine learning application that analyz
 
 ## Table of Content
 - [Project Structure](#ProjectStructure)
-- [Prerequisites & Installation](#Prerequisites&Installation)
+- [Prerequisites&Installation](#Prerequisites&Installation)
 - [Usage](#Usage)
 - [Technical Details](#TechnicalDetails)
-- [Result](#Result)
+- [Result](#Results)
 
 ## Project Structure
 ```Bash
