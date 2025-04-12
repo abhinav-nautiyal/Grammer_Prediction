@@ -60,7 +60,7 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
-# Technical Details
+## Technical Details
 ### Feature Extraction
 The system extracts the following audio features using Librosa:
 - MFCCs (Mel-frequency cepstral coefficients)
@@ -75,7 +75,7 @@ The system extracts the following audio features using Librosa:
 - Evaluation Metric: Mean Absolute Error (MAE)
 - Score Range: 1 (poor) to 5 (excellent grammar)
 
-# Results
+## Results
 The model provides:
 - Grammar quality predictions with visual feedback
 - Audio playback capability
