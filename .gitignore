@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+
+# Virtual environments
+venv/
+.envrc
+.venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Streamlit cache
+.streamlit/
+
+# Data and large artifacts
+# Note: dataset and models are intentionally included in this repo per project requirements
+# If you want to exclude them in the future, uncomment the patterns below
+# /dataset/audios_train/
+# /dataset/audios_test/
+# /dataset/*_features.csv
+# /dataset/submission.csv
+
+# Models (included intentionally)
+# /models/*.pkl
+# /models/train_metrics.csv
+
+# Notebooks / outputs
+*.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log

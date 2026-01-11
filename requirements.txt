@@ -1,0 +1,15 @@
+numpy==1.24.4
+pandas
+librosa
+soundfile
+scikit-learn==1.2.2
+joblib
+pydub
+streamlit
+sounddevice
+matplotlib
+tqdm
+google-genai
+speechrecognition
+scipy==1.10.1
+groq
